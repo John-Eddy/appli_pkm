@@ -1,0 +1,9 @@
+Numéro
+Nom
+PDV
+Attaque
+Defense
+Att Spécial
+Def Spécial
+Vitesse
+Total
